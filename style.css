@@ -1,3 +1,33 @@
 body{
     background-color: rgb(236, 136, 252);
+    font-family: "roboto";
+    font-weight: 300;
+}
+
+.bg{
+    background-color: rgb(236, 136, 252) ;
+}
+
+h1{
+    font-weight: 700;
+}
+
+h1.jumbotron.row{
+    color: white;
+}
+
+h2{
+    font-weight: 100;
+}
+
+.sameheight{
+    height: 100%;
+}
+
+a{
+    color: black;
+}
+
+picture img{
+    width: 200px;
 }
