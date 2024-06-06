@@ -3,10 +3,6 @@ body{
     font-weight: 300;
 }
 
-.navbar{
-    color:white;
-}
-
 h1{
     font-weight: 700;
 }
@@ -19,14 +15,8 @@ h2{
     height: 100%;
 }
 
-a{
-    color: black;
-}
-
-a:hover{
-    color: white;
-}
-
 picture img{
     width: 180px;
 }
+
+211	225	252	
